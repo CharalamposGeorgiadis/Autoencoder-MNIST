@@ -1,6 +1,4 @@
 # Autoencoder-MNIST
-***NOTE: Extract the "dataset.zip" file before running the code!***
-
 Python project that trains and evaluates an Autoencoder on the MNIST dataset using PyTorch.
 
 Matplotlib is used in order to display the first 15 images of the test set side-by-side with their reconstructed counterparts.
